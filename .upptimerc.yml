@@ -24,7 +24,7 @@ status-website:
   # baseUrl: /kanta-uptime
   logoUrl: https://kanta.fr/assets/images/logo-beta.svg
   name: Kanta
-  introTitle: "**Kanta** Status Page"
+  introTitle: "État des services"
   introMessage: ""
   navbar:
     - title: Status
