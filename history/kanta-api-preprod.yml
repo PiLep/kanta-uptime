@@ -1,7 +1,7 @@
 url: https://preprod.kanta.fr/api
-status: up
-code: 404
-responseTime: 987
-lastUpdated: 2021-05-13T20:46:20.525Z
+status: down
+code: 502
+responseTime: 956
+lastUpdated: 2021-05-13T21:14:07.509Z
 startTime: Thu May 13 2021 17:11:07 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
