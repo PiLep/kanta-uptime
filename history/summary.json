@@ -44,19 +44,19 @@
     "url": "https://preprod.kanta.fr/api",
     "icon": "https://favicons.githubusercontent.com/preprod.kanta.fr",
     "slug": "kanta-api-preprod",
-    "status": "down",
-    "uptime": "99.85%",
-    "uptimeDay": "94.46%",
-    "uptimeWeek": "99.21%",
-    "uptimeMonth": "99.82%",
-    "uptimeYear": "99.85%",
-    "time": 1260,
-    "timeDay": 5448,
-    "timeWeek": 2746,
-    "timeMonth": 1451,
-    "timeYear": 1260,
+    "status": "up",
+    "uptime": "99.80%",
+    "uptimeDay": "92.42%",
+    "uptimeWeek": "98.92%",
+    "uptimeMonth": "99.75%",
+    "uptimeYear": "99.80%",
+    "time": 1406,
+    "timeDay": 6225,
+    "timeWeek": 3345,
+    "timeMonth": 1677,
+    "timeYear": 1406,
     "dailyMinutesDown": {
-      "2021-06-20": 80
+      "2021-06-20": 109
     }
   },
   {
