@@ -4,10 +4,10 @@
     "url": "https://app.kanta.fr/api",
     "icon": "https://favicons.githubusercontent.com/app.kanta.fr",
     "slug": "kanta-api-production",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 927,
@@ -15,7 +15,9 @@
     "timeWeek": 895,
     "timeMonth": 923,
     "timeYear": 927,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-06-20": 1
+    }
   },
   {
     "name": "Kanta Front - Production",
