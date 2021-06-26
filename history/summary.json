@@ -10,11 +10,11 @@
     "uptimeWeek": "99.84%",
     "uptimeMonth": "99.96%",
     "uptimeYear": "99.97%",
-    "time": 1701,
-    "timeDay": 948,
-    "timeWeek": 5083,
-    "timeMonth": 2193,
-    "timeYear": 1701,
+    "time": 1688,
+    "timeDay": 924,
+    "timeWeek": 5070,
+    "timeMonth": 2191,
+    "timeYear": 1688,
     "dailyMinutesDown": {
       "2021-06-20": 16
     }
@@ -30,11 +30,11 @@
     "uptimeWeek": "99.73%",
     "uptimeMonth": "99.94%",
     "uptimeYear": "99.96%",
-    "time": 264,
-    "timeDay": 130,
-    "timeWeek": 979,
+    "time": 262,
+    "timeDay": 127,
+    "timeWeek": 978,
     "timeMonth": 360,
-    "timeYear": 264,
+    "timeYear": 262,
     "dailyMinutesDown": {
       "2021-06-20": 27
     }
@@ -45,16 +45,16 @@
     "icon": "https://favicons.githubusercontent.com/preprod.kanta.fr",
     "slug": "kanta-api-preprod",
     "status": "up",
-    "uptime": "99.82%",
+    "uptime": "99.83%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "98.92%",
     "uptimeMonth": "99.75%",
-    "uptimeYear": "99.82%",
-    "time": 1365,
-    "timeDay": 852,
-    "timeWeek": 3327,
+    "uptimeYear": "99.83%",
+    "time": 1357,
+    "timeDay": 874,
+    "timeWeek": 3324,
     "timeMonth": 1671,
-    "timeYear": 1365,
+    "timeYear": 1357,
     "dailyMinutesDown": {
       "2021-06-20": 109
     }
@@ -70,11 +70,11 @@
     "uptimeWeek": "99.22%",
     "uptimeMonth": "99.82%",
     "uptimeYear": "99.87%",
-    "time": 406,
-    "timeDay": 129,
-    "timeWeek": 1717,
+    "time": 402,
+    "timeDay": 126,
+    "timeWeek": 1716,
     "timeMonth": 595,
-    "timeYear": 406,
+    "timeYear": 402,
     "dailyMinutesDown": {
       "2021-06-20": 78
     }
