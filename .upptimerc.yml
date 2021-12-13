@@ -23,7 +23,7 @@ status-website:
   cname: status.kanta.fr
   # baseUrl: /kanta-uptime
   logoUrl: https://kanta.fr/assets/images/logo.svg
-  name: ""
+  name: "Status Kanta"
   introTitle: "État des services"
   introMessage: ""
   favicon: https://kanta.fr/assets/images/favicon.png
