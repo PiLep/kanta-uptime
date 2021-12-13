@@ -26,6 +26,7 @@ status-website:
   name: ""
   introTitle: "État des services"
   introMessage: ""
+  favicon: https://kanta.fr/assets/images/favicon.png
   navbar:
     - title: Status
       href: /
